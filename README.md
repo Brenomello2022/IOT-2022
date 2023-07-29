@@ -1,5 +1,5 @@
-Repositório da disciplina de Internet das Coisas (IOT) 2022
+Repositório da disciplina de Internet das Coisas (IOT) 2022.
 
-Python em Raspberry
+Utilizando Python 3 na IDE do Micro-Computador Raspberry.
 
-Professor: Giovani Fabris Marcarini
+Professor: Giovani Fabris Marcarini.
